@@ -1,0 +1,16 @@
+# imagemaps
+# --
+# mapname:
+# - {
+#	name: 'title of the detail',
+#	description: 'short description of the detail',
+#	thumb: '40px*40px thumbnailfile located /assets/img/ folder',
+#	fullsize: 'full size image or videofile',
+#	posleft: 'absolute left position of thumbnail without "px"',
+#	postop: 'absolute top position',
+#	direction: 'which way thumbnail lower corner should be pointing'
+# }
+
+details:
+- {name: Kompressorihuone, thumb: 'komphuone_thumb.jpg', fullsize: 'komphuone.jpg', posleft: 706, postop: 439, direction: right}
+- {name: 'komphuone_runko.mp4', thumb: 'komphuone_luukulta_thumb.jpg', fullsize: 'komphuone_luukulta.png', posleft: 809, postop: 442, direction: right}
